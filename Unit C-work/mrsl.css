@@ -1,0 +1,19 @@
+/*Murfreesboro Regional Soccer League CSS*/
+
+h1, h2 {
+	text-align:center;
+}
+.content {
+	text-align:left;
+}
+#contact {
+	text-align:right;
+}
+#box {
+	width:40em;
+	padding:1em;
+	border:0.5em solid black;
+	margin-left:auto;
+	margin-right:auto;
+}
+/*Chester Levine, HTML5 Unit C Independent Challenge 2 */

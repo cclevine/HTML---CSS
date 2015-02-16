@@ -1,0 +1,3 @@
+user-agent: *
+Disallow: /contacts.html
+Disallow: /events.html

@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="description" content="'The Great Loop' is a motorcycle route that circumvents Colorado.  This site gives details into the route, checkpoints, 
+    a gear list, and provides a link to a google map where the route is clearly displayed." />
+    <meta name="keywords" content="colorado motorcycle trip, colorado, motorcycle, motorcycle trip, colorado trip, motorcycle route, colorado motorcycle
+    route, colorado route" />
+    <title>Colorado Motorcyle Trip</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="moto.css" />
+    <link rel="stylesheet" type="text/css" media="print" href="motoprint.css" />
+    <link rel="stylesheet" type="text/css" media="screen" href="motoform.css" />
+    <link rel="shortcut icon" href="favicon.ico" />
+  	<!--[if lt IE 9]>
+  		<script src="scripts/semantic.js"></script>
+  	<![endif]-->
+  </head>
+  <body>
+  	<div id="box">
+    <p id="skipnav"><a href="#main">Skip navigation</a></p>
+    <header>
+      <h1>Summer 2014 Motorcycle Trip</h1>
+      <p id="affiliation">"The Great Loop"</p>
+    </header>
+    <nav>
+    	<ul id="mainnav">
+    		<li><a href="index.html">Home</a></li>
+      		<li><a href="gearlist.html">Gearlist</a></li>
+      		<li><a href="checkpoints.html">Checkpoints</a></li>
+      		<li><a href="https://mapsengine.google.com/map/edit?hl=en&authuser=0&mid=ztsXECtUXzEI.kJn4iUJatxx4" target="_blank">Route</a></li>
+      		<li><a href="contact.html">Contact</a></li>
+    	</ul>
+    </nav>
+    
+     <article id="content">
+        <h2 id="main">Contact Us</h2>
+		<form>
+			<fieldset id="contactinfo">
+				<legend><span>Contact Information</span></legend>
+				<label>
+					Name
+					<input type="text" name="name" id="nameinput" placeholder="first and last name"/>
+				</label>
+				<label>
+					Email
+					<input type="email" name="email" id="emailinput" placeholder="address@example.com"/>
+				</label>
+				<label>
+					Phone
+					<input type="text" name="phone" id="phoneinput" />
+				</label>
+			</fieldset>
+			<fieldset id="reserveinfo">
+				<legend><span>Will you take a Motorcycle Trip?</span></legend>
+				
+				
+				<fieldset id="survey">
+					<legend>How likely are you to take a Motorcycle Trip?</legend>
+					<label for="unlikely">
+						<input type="radio" name="survey" id="survey" value="unlikely" checked="checked" />
+						Unlikely
+					</label>
+					<label for="somewhat">
+						<input type="radio" name="survey" id="survey" value="somewhatunlikely" />
+						Somewhat unlikely
+					</label>
+					<label for="undecided">
+						<input type="radio" name="survey" id="survey" value="undecided" />
+						Undecided
+					</label>
+					<label for="somewhatlikely">
+						<input type="radio" name="survey" id="survey" value="somewhatlikely" />
+						Somewhat Likely
+					</label>
+					<label for="likely">
+						<input type="radio" name="survey" id="survey" value="likely" />
+						Very Likely
+					</label>
+				</fieldset>
+			</fieldset>
+			
+			<fieldset id="additionalinfo">
+				<legend><span>Additional Information</span></legend>
+					<label>
+						<legend>Feedback, questions, or other information</legend>
+							<textarea id="feedback" name="feedback" rows="4" cols="55"></textarea>			
+					</label>
+			</fieldset>
+			
+			<fieldset id="submitbutton">
+				<input type="submit" id="submit" value="Submit" />
+			</fieldset>		
+		
+		</form>      
+      </article>
+	<footer>Chester Levine<br />2050 W 104th Ave<br />Denver, CO 80207<br />comotorcycleman@gmail.com</footer>
+    </div>
+  </body>
+</html>

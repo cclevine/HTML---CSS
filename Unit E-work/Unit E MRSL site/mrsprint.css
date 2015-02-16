@@ -1,0 +1,107 @@
+/* Murfreesboro Regional Soccer League */
+/* Chester Levine HTML5 Unit E, Independent Challenge 2 */
+body {
+  text-align: left;
+  font-family: tahoma, arial, helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  width: 42em;
+  margin-right: auto;
+  margin-left: auto;
+  }
+h1, h2, #affiliation {
+  text-align: center;
+  padding: 0.1em;
+  margin: 0;
+  font-family: georgia, "times new roman", times, serif;
+  }
+h1 {
+  font-size: 2em;
+  }
+h2 {
+  font-size: 1.5em;
+  }
+#affiliation {
+  font-size: 1.25em;
+  }
+header {
+  display: block;
+  border: 0.35em;
+
+  padding: 0;
+  margin: 0;
+  }
+#mainnav {
+  text-align: center;
+
+  margin: 0;
+  padding: 0.25em;
+  border-bottom: 0.35em;
+  }
+#maintext {
+  padding: 0.5em;
+  border-left: 0.35em;
+  border-right: 0.35em;
+  }
+footer {
+  display:block;
+  text-align: right;
+  padding: 0.5em;
+
+  margin: 0;
+  }
+#skipnav {
+  text-align: right;
+  margin: 0;
+  padding: 0;
+  }
+.toplink {
+  text-align: right;
+  padding: 0 1em 0 0;
+  margin: 0;
+  }
+  
+/* IC2 Additions*/
+a:link {
+	color: black;
+}
+
+a:visited {
+	color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: black;
+}
+
+#mainnav a:link {
+	color: black;
+}
+#mainnav a:visited {
+	color: black;
+}
+
+#mainnav a:hover {
+	color: black;
+}
+
+#mainnav a:active {
+	color: black;
+}
+
+#pagenav a:link {
+	color: black;
+}
+#pagenav a:visited {
+	color: black;
+}
+#pagenav a:hover {
+	color: black;
+}
+#pagenav a:active {
+	color: black;
+}

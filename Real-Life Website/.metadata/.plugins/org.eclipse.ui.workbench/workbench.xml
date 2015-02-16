@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench progressCount="29" version="2.0">
+<workbenchAdvisor/>
+<window height="874" width="1200" x="117" y="22">
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar>
+<itemSize x="160"/>
+</perspectiveBar>
+<coolbarLayout>
+<coolItem id="group.file" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="106" y="22"/>
+<coolItem id="additions" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.debug.ui.launchActionSet" itemType="typeToolBarContribution" x="114" y="22"/>
+<coolItem id="org.eclipse.search.searchActionSet" itemType="typeToolBarContribution" x="68" y="22"/>
+<coolItem id="com.aptana.ui.globalActionSet" itemType="typeToolBarContribution" x="150" y="22"/>
+<coolItem id="org.eclipse.ui.edit.text.actionSet.presentation" itemType="typeToolBarContribution" x="76" y="22"/>
+<coolItem id="group.nav" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="70" y="22"/>
+<coolItem id="group.editor" itemType="typeGroupMarker"/>
+<coolItem id="com.aptana.editor.css" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="com.aptana.editor.html" itemType="typeToolBarContribution" x="-1" y="-1"/>
+<coolItem id="group.help" itemType="typeGroupMarker"/>
+<coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
+</coolbarLayout>
+<page aggregateWorkingSetId="Aggregate for window 1393812105876" focus="true" label="Workspace - Web">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="6"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="com.aptana.editor.css" name="moto.css" partName="moto.css" title="moto.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/moto.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/moto.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="7" selectionOffset="2728" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="motoprint.css" partName="motoprint.css" title="motoprint.css" tooltip="/Users/cclevine/Documents/motoprint.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Documents/motoprint.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="744" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.html" name="checkpoints.html" partName="checkpoints.html" title="checkpoints.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/checkpoints.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/checkpoints.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="439" selectionOffset="65" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.html" name="gearlist.html" partName="gearlist.html" title="gearlist.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/gearlist.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/gearlist.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="69" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="com.aptana.editor.html" name="index.html" partName="index.html" title="index.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/index.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/index.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="2442" selectionTopPixel="149"/>
+</editor>
+<editor id="com.aptana.editor.html" name="contact.html" partName="contact.html" title="contact.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/contact.html" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/contact.html"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1568" selectionTopPixel="0"/>
+</editor>
+<editor id="com.aptana.editor.css" name="motoform.css" partName="motoform.css" title="motoform.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/motoform.css" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/motoform.css"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="695" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" partName="Project Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0"/>
+</view>
+<view id="com.aptana.snippets.ui.views.SnippetsView" partName="Snippets"/>
+<view id="com.aptana.terminal.views.terminal" partName="Terminal"/>
+<view id="com.aptana.samples.ui.SamplesView" partName="Samples"/>
+<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
+<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
+<columnWidths org.eclipse.ui.ide.locationField="90" org.eclipse.ui.ide.markerType="90" org.eclipse.ui.ide.pathField="120" org.eclipse.ui.ide.resourceField="90" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
+<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
+</viewState>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="com.aptana.explorer.view" partName="App Explorer">
+<viewState CommonNavigator.LINKING_ENABLED="0" GitChangedFilesFilterEnabled=""/>
+</view>
+<view id="org.eclipse.ui.views.ContentOutline" partName="Outline">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="com.aptana.editor.html" activePerspective="com.aptana.ui.WebPerspective">
+<perspective editorAreaTrimState="1" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="com.aptana.ui.internal.WebPerspectiveFactory" id="com.aptana.ui.WebPerspective" label="Web"/>
+<alwaysOnActionSet id="com.aptana.browser.actionSet"/>
+<alwaysOnActionSet id="com.aptana.ruby.debug.ui.RubyDebugActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.cheatsheets.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="com.aptana.editor.common.presentation"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.launchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="com.aptana.js.debug.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.NavigateActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.presentation"/>
+<alwaysOnActionSet id="com.aptana.ui.globalActionSet"/>
+<alwaysOnActionSet id="com.aptana.terminal.actionSet"/>
+<show_view_action id="com.aptana.browser.views.webbrowser"/>
+<show_view_action id="com.aptana.explorer.view"/>
+<show_view_action id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<show_view_action id="com.aptana.ui.io.remoteview"/>
+<show_view_action id="org.eclipse.ui.views.ContentOutline"/>
+<show_view_action id="com.aptana.samples.ui.SamplesView"/>
+<show_view_action id="com.aptana.snippets.ui.views.SnippetsView"/>
+<show_view_action id="com.aptana.terminal.views.terminal"/>
+<show_view_action id="org.eclipse.ui.console.ConsoleView"/>
+<show_view_action id="org.eclipse.pde.runtime.LogView"/>
+<show_view_action id="org.eclipse.ui.views.ProblemView"/>
+<show_view_action id="org.eclipse.ui.views.TaskList"/>
+<show_view_action id="com.aptana.webserver.ui.view"/>
+<new_wizard_action id="com.aptana.editor.php.NewPHPProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.NewWebProject"/>
+<new_wizard_action id="com.aptana.ruby.core.ui.rubyProjectWizard"/>
+<new_wizard_action id="com.aptana.ui.wizards.new.file"/>
+<new_wizard_action id="org.eclipse.ui.wizards.new.folder"/>
+<new_wizard_action id="org.eclipse.ui.editors.wizards.UntitledTextFileWizard"/>
+<new_wizard_action id="org.radrails.rails.ui.projectWizard"/>
+<perspective_action id="org.eclipse.debug.ui.DebugPerspective"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="terminalArea" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="com.aptana.terminal.views.terminal" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ProblemView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1b94ed3" orientation="256" selectedTabId="org.eclipse.ui.views.ContentOutline" style="1">
+<fastViews>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+<view id="com.aptana.samples.ui.SamplesView" ratio="0.3"/>
+<view id="com.aptana.snippets.ui.views.SnippetsView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="left" orientation="512" selectedTabId="com.aptana.explorer.view" style="1">
+<fastViews>
+<view id="com.aptana.explorer.view" ratio="0.3"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="left">
+<folder appearance="2" expanded="2">
+<page content="com.aptana.explorer.view" label="LabelNotFound"/>
+<page content="org.eclipse.ui.navigator.ProjectExplorer" label="LabelNotFound"/>
+<page content="com.aptana.ui.io.remoteview" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.75" ratioLeft="894" ratioRight="298" relationship="2" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+<page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.19966443" ratioLeft="238" ratioRight="954" relationship="2" relative="left"/>
+<info folder="true" part="terminalArea" ratio="0.74938875" ratioLeft="613" ratioRight="205" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="com.aptana.terminal.views.terminal" label="LabelNotFound"/>
+<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.TaskList" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1b94ed3" ratio="0.74938875" ratioLeft="613" ratioRight="205" relationship="4" relative="left">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="com.aptana.samples.ui.SamplesView" label="LabelNotFound"/>
+<page content="com.aptana.snippets.ui.views.SnippetsView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/contact.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/motoform.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20J-work/lakeland%20reeds/llform.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20J-work/lakeland%20reeds/contact.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/cclevine/Documents/motoprint.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/moto.css"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/checkpoints.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20N-work/IC2/schedule.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/gearlist.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/index.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20K/Data%20Files/IC2/HTM%20K-4.html"/>
+<editor factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20K/Data%20Files/IC2/schedule.html"/>
+</editors>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3132" y="0"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="1102" y="77"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="motoprint.css" index="4">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2638" y="15"/>
+</item>
+<item historyLabel="contact.html | lakeland reeds" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="llform.css" index="2">
+<position info="not_deleted" x="800" y="0"/>
+</item>
+<item historyLabel="contact.html | lakeland reeds" index="3">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="llform.css" index="2">
+<position info="not_deleted" x="800" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2638" y="15"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="1011" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2638" y="15"/>
+</item>
+<item historyLabel="motoprint.css" index="4">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="1018" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2728" y="7"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="695" y="0"/>
+</item>
+<item historyLabel="checkpoints.html" index="6">
+<position info="not_deleted" x="770" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="7">
+<position info="not_deleted" x="584" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="3163" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2728" y="7"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="695" y="0"/>
+</item>
+<item historyLabel="checkpoints.html" index="6">
+<position info="not_deleted" x="504" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="7">
+<position info="not_deleted" x="584" y="0"/>
+</item>
+<item historyLabel="checkpoints.html" index="6">
+<position info="not_deleted" x="65" y="439"/>
+</item>
+<item historyLabel="gearlist.html" index="8">
+<position info="not_deleted" x="69" y="0"/>
+</item>
+<item historyLabel="index.html" index="9">
+<position info="not_deleted" x="69" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="7">
+<position info="not_deleted" x="584" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="HTM K-4.html" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="65" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="11">
+<position info="not_deleted" x="1824" y="0"/>
+</item>
+<item historyLabel="index.html" index="9">
+<position info="not_deleted" x="2505" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="11">
+<position info="not_deleted" x="1824" y="0"/>
+</item>
+<item historyLabel="index.html" index="9">
+<position info="not_deleted" x="2486" y="0"/>
+</item>
+<item historyLabel="schedule.html" index="11">
+<position/>
+</item>
+<item historyLabel="index.html" index="9">
+<position info="not_deleted" x="2486" y="0"/>
+</item>
+<item historyLabel="moto.css" index="5">
+<position info="not_deleted" x="2728" y="7"/>
+</item>
+<item historyLabel="motoprint.css" index="4">
+<position info="not_deleted" x="744" y="0"/>
+</item>
+<item historyLabel="motoform.css" index="1">
+<position info="not_deleted" x="695" y="0"/>
+</item>
+<item historyLabel="checkpoints.html" index="6">
+<position info="not_deleted" x="65" y="439"/>
+</item>
+<item historyLabel="gearlist.html" index="8">
+<position info="not_deleted" x="69" y="0"/>
+</item>
+<item historyLabel="index.html" index="9">
+<position info="not_deleted" x="2486" y="0"/>
+</item>
+<item historyLabel="contact.html" index="0">
+<position info="not_deleted" x="1568" y="0"/>
+</item>
+<item active="true" historyLabel="index.html" index="9">
+<position info="not_deleted" x="2486" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+<trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="left"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@1b94ed3"/>
+</trimArea>
+<trimArea IMemento.internal.id="128">
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
+</trimArea>
+<trimArea IMemento.internal.id="1024">
+<trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
+<trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="terminalArea"/>
+</trimArea>
+</trimLayout>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="schedule.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit K/Data Files/IC2/schedule.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20K/Data%20Files/IC2/schedule.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="HTM K-4.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit K/Data Files/IC2/HTM K-4.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20K/Data%20Files/IC2/HTM%20K-4.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="schedule.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit N-work/IC2/schedule.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20N-work/IC2/schedule.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="contact.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit J-work/lakeland reeds/contact.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20J-work/lakeland%20reeds/contact.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="llform.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit J-work/lakeland reeds/llform.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20J-work/lakeland%20reeds/llform.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="lakeland.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit J-work/lakeland reeds/lakeland.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20J-work/lakeland%20reeds/lakeland.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/index.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="gearlist.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/gearlist.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/gearlist.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="checkpoints.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Real-Life Website/checkpoints.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Real-Life%20Website/checkpoints.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="mrsl.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit H-work/IC2/mrsl.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20H-work/IC2/mrsl.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="index.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit H-work/IC2/index.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20H-work/IC2/index.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="mrsl.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/StudentDataFilesExceptUnitKCWB110/Unit I/Data Files/IC2/mrsl.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/StudentDataFilesExceptUnitKCWB110/Unit%20I/Data%20Files/IC2/mrsl.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="mrsprint.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/StudentDataFilesExceptUnitKCWB110/Unit I/Data Files/IC2/mrsprint.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/StudentDataFilesExceptUnitKCWB110/Unit%20I/Data%20Files/IC2/mrsprint.css"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.html" name="schedule.html" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/StudentDataFilesExceptUnitKCWB110/Unit I/Data Files/IC2/schedule.html">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/StudentDataFilesExceptUnitKCWB110/Unit%20I/Data%20Files/IC2/schedule.html"/>
+</file>
+<file factoryID="org.eclipse.ui.ide.FileStoreEditorInputFactory" id="com.aptana.editor.css" name="lakeland.css" tooltip="/Users/cclevine/Desktop/CCAurora/CWB 110 Web Authoring/Unit H-work/Unit/lakeland.css">
+<persistable uri="file:/Users/cclevine/Desktop/CCAurora/CWB%20110%20Web%20Authoring/Unit%20H-work/Unit/lakeland.css"/>
+</file>
+</mruList>
+</workbench>

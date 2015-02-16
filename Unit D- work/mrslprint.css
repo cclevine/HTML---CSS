@@ -1,0 +1,39 @@
+/* Murfreesboro Regional Soccer League Chester Levine CWB 110 Unit D IC2*/
+body {
+  text-align: left;
+  }
+h1, #narsa {
+  text-align: center;
+  padding: 0.1em;
+  margin: 0;
+  }
+h1 {
+	font-size:2em;
+}
+#narsa {
+	font-size:1.25em;
+}
+#head {
+
+  padding: 0;
+  margin: 0;
+
+  }
+#box {
+  width: 42em;
+  margin-left: auto;
+  margin-right: auto;
+  }
+#maintext {
+  padding: 0.5em;
+
+  }
+#contact {
+  text-align: right;
+  padding: 0.5em;
+  margin: 0;
+
+  }
+#name {
+	font-weight:bold;
+}
